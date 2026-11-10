@@ -2,7 +2,7 @@
 
 So I wanted to learn how a laser actually works, from the basic level all the way down to the fundamental level. I researched it and explained it in my own words. If you came here from my LinkedIn post, this is the in-depth version with all the small details and nudges that I didn't mention there.
 
-![Inside a laser: two mirrors, the gain medium, the pump, and the beam leaking out of the 95% mirror](images/laser-diagram.png)
+![Inside a laser: two mirrors, the gain medium, the pump, and the beam leaking out of the 95% mirror](Lasers/laser-diagram.png)
 
 ---
 
